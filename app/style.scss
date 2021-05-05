@@ -1,0 +1,16 @@
+body {
+    background-color: #00f
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+    li {
+        text-align: left;
+        span{
+            color: red;
+        }
+    }
+}
